@@ -1,0 +1,6 @@
+{
+  "name": "InnerSpace",
+  "description": "An emotionally safe, aesthetic mental wellness and empathetic support platform featuring private therapist chats, anonymous safe listening channels, scream therapy, interactive breathing games, and a comforting AI companion.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
